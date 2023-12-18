@@ -224,7 +224,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
 		            <div class="container mt-2 ml-2">
 		              <div class="row justify-content-left">
 		                <div class="col-md-6 p-4">
-					<div class="d-flex align-items-center justify-content-center vh-100">
+					<div class="d-flex align-items-center justify-content-center">
 						<div class="container">
 							<div class="row justify-content-center">
 								<div class="col-md-6">
